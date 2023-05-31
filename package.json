@@ -1,0 +1,25 @@
+{
+  "name": "RAM",
+  "version": "1.0.0",
+  "description": "Runtime link: https://flask.nighthawkcodingsociety.com/ ### Quick way to get started > Quick steps with MacOS or WSL; this uses Nix for programmatic way to build tools and dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssar60819/RAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyssar60819/RAM/issues"
+  },
+  "homepage": "https://github.com/alyssar60819/RAM#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0"
+  }
+}
